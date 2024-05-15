@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkbreak_software"]=self["webpackChunkbreak_software"]||[]).push([[291],{9291:function(e,n,t){t.r(n),t.d(n,{default:function(){return c}});var r=function(){var e=this,n=e._self._c;return n("div",{staticClass:"home"},[e._v(" 关于我 ")])},a=[],s={name:"home",components:{},data(){return{}}},u=s,l=t(1656),o=(0,l.A)(u,r,a,!1,null,null,null),c=o.exports}}]);
-//# sourceMappingURL=291.ae49eda9.js.map
